@@ -1,2 +1,3 @@
-# Courts-of-Chaos
-Courts of Chaos website
+# Courts of Chaos website
+Currently in phase of development.
+Address: http://www.courtsofchaos.co.uk
